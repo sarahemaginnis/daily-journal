@@ -3,7 +3,7 @@
     flex-direction: column;
 }
 
-.inputFieldset {
+.verticalFieldset {
     display: flex;
     flex-direction: column;
 }
